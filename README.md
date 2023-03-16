@@ -269,7 +269,7 @@ If you've picked tech, what are their disadvantages?
 - High load, single point of failure, availability, synchronization of data/info
 - The same techniques apply in many different ways.
 
-**Links**
+**Links/Source**
 
 [System-Design-vasanthk](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 
